@@ -1,0 +1,13 @@
+{
+  "name":"Ecommerce-ALM-PDF-Final-REPO",
+  "scripts":{},
+  "env":{
+    "BUILDPACK_URL":{
+      "required":true
+    },
+    "WORKSPACE_DIR":{
+      "required":true
+    }
+  },
+  "addons":[]
+}
